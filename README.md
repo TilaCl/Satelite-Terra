@@ -67,5 +67,6 @@ La ip se puede tomar directo de la terminal del arduino.
 Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request en el repositorio de GitHub.
 
 ## Proximos pasos
+Este proyecto es un MVP, aun quedan muchas cosas por arreglar y agregar, como solucionar limites del sensor de humedad de tierra, incluir baterias, regular sensor UV, y más.
 
 Espero seguir con este satelite terrestre con las modulos y sensores, ademas de poder lograr autonomia con paneles solares. El tiempo lo dirá. 🦖
