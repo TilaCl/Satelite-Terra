@@ -9,6 +9,8 @@ Este proyecto consiste en un sistema de monitoreo ambiental que utiliza sensores
 <img src="media/foto3(maceta).jpg" width="300">
 
 
+Programas usados: Docker, Node.js, Arduino Idle, Datagrip, Putty (servidor), Postman (pruebas de api), VS Code.
+
 ## Materiales Necesarios
 
 - **ESP32**: Microcontrolador con WiFi integrado.
