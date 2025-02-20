@@ -6,7 +6,7 @@
 Este proyecto consiste en un sistema de monitoreo ambiental que utiliza sensores para recolectar datos como temperatura, humedad, humedad del suelo y radiación UV. Los datos son enviados a una base de datos MySQL a través de un servidor Node.js, y pueden ser visualizados en una interfaz web.
 
 
-<img src="media/foto3(maceta).jpg" width="300">
+<img src="media/foto3(maceta).png" width="300">
 
 
 Programas usados: Docker, Node.js, Arduino Idle, Datagrip, Putty (servidor), Postman (pruebas de api), VS Code.
@@ -25,7 +25,7 @@ Programas usados: Docker, Node.js, Arduino Idle, Datagrip, Putty (servidor), Pos
 - **Sensor de Humedad del Suelo**: Sensor para medir la humedad del suelo.
   - [Comprar en Aliexpress](https://es.aliexpress.com/item/1005005202930632.html?spm=a2g0o.productlist.main.5.166a7fccBc9tqr&algo_pvid=7cb4208f-daa0-45dd-a04e-a5e1c7facd04&pdp_ext_f=%7B%22order%22%3A%22611%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A)
 
-  <img src="media/foto2.jpg" width="300">
+  <img src="media/foto2.png" width="300">
 
 
 ## Lógica del Proyecto
