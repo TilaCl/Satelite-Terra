@@ -41,7 +41,7 @@ Programas usados: Docker, Node.js, Arduino Idle, Datagrip, Putty (servidor), Pos
 - **Node.js (JavaScript)**: El servidor en `server.js` maneja la recepción de datos y su almacenamiento en la base de datos MySQL.
 - **MySQL**: La base de datos almacena los datos recolectados por los sensores. Esta se recomienda crear en un contenedor de Docker separado del servidor de node.
 
-<img src="media/docker.png" width="300">
+<img src="media/docker.png" width="700">
 
 
 ## Usos
